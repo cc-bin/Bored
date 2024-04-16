@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Bored/static/css/main.ab4ff5e4.css",
-    "main.js": "/Bored/static/js/main.8dc07f8a.js",
+    "main.js": "/Bored/static/js/main.e9791178.js",
     "static/js/453.540f9b44.chunk.js": "/Bored/static/js/453.540f9b44.chunk.js",
     "static/media/refresh.svg": "/Bored/static/media/refresh.65d365208c6fd89abbf635d563b0ab00.svg",
-    "static/media/happy.svg": "/Bored/static/media/happy.735517df8fa1dd1c6291a44c1d9383b2.svg",
-    "static/media/bored.svg": "/Bored/static/media/bored.11489b9f60053256736bf6dc128fe7b1.svg",
+    "static/media/happy.svg": "/Bored/static/media/happy.3160c0a70f5288db3be629f5b127536f.svg",
+    "static/media/bored.svg": "/Bored/static/media/bored.4a97c48347c49df047c297be4a1580e3.svg",
     "static/media/collect_select.svg": "/Bored/static/media/collect_select.f39c908a7ab5c9f9763a5d49e4908357.svg",
     "static/media/collect_unselect.svg": "/Bored/static/media/collect_unselect.caa56826ec56fa18e89120a7489f0e86.svg",
     "static/media/close.svg": "/Bored/static/media/close.f298b0f5798d24be2bb475e4399795e1.svg",
     "static/media/share.svg": "/Bored/static/media/share.58c91431a1ccb960b49e5c8c62d2bb5e.svg",
     "index.html": "/Bored/index.html",
     "main.ab4ff5e4.css.map": "/Bored/static/css/main.ab4ff5e4.css.map",
-    "main.8dc07f8a.js.map": "/Bored/static/js/main.8dc07f8a.js.map",
+    "main.e9791178.js.map": "/Bored/static/js/main.e9791178.js.map",
     "453.540f9b44.chunk.js.map": "/Bored/static/js/453.540f9b44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab4ff5e4.css",
-    "static/js/main.8dc07f8a.js"
+    "static/js/main.e9791178.js"
   ]
 }
