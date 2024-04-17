@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Bored/static/css/main.3fd98132.css",
-    "main.js": "/Bored/static/js/main.9ecb4be5.js",
+    "main.css": "/Bored/static/css/main.d5559937.css",
+    "main.js": "/Bored/static/js/main.1b093f2d.js",
     "static/js/453.540f9b44.chunk.js": "/Bored/static/js/453.540f9b44.chunk.js",
     "static/media/bg2.png": "/Bored/static/media/bg2.9f3f1b8e58046cdcfd93.png",
     "static/media/price.svg": "/Bored/static/media/price.1d05e4d3a02a93c229a05e4916cf8628.svg",
@@ -17,12 +17,12 @@
     "static/media/share.svg": "/Bored/static/media/share.58c91431a1ccb960b49e5c8c62d2bb5e.svg",
     "static/media/share_blue.svg": "/Bored/static/media/share_blue.259c8b65f8c6a75ec6f34b2a63f5f645.svg",
     "index.html": "/Bored/index.html",
-    "main.3fd98132.css.map": "/Bored/static/css/main.3fd98132.css.map",
-    "main.9ecb4be5.js.map": "/Bored/static/js/main.9ecb4be5.js.map",
+    "main.d5559937.css.map": "/Bored/static/css/main.d5559937.css.map",
+    "main.1b093f2d.js.map": "/Bored/static/js/main.1b093f2d.js.map",
     "453.540f9b44.chunk.js.map": "/Bored/static/js/453.540f9b44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd98132.css",
-    "static/js/main.9ecb4be5.js"
+    "static/css/main.d5559937.css",
+    "static/js/main.1b093f2d.js"
   ]
 }
