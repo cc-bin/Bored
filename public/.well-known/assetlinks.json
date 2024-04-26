@@ -5,10 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "app.netlify.master__spiffy_strudel_913d09.twa",
+      "package_name": "lat.mdshgjweijgwe.twa",
       "sha256_cert_fingerprints": [
-        "6F:71:DA:17:7A:02:47:DD:94:78:63:C7:39:38:1C:C8:2A:3B:F2:DD:A4:20:A2:80:0D:AE:65:80:CE:2A:9F:1F",
-        "45:5A:A5:07:23:2A:28:F0:22:BB:EA:61:BE:71:7F:08:0A:8F:52:BD:18:E2:15:30:17:95:08:DF:76:A2:05:75"
+        "88:F5:FD:BE:7F:27:8C:79:00:5B:97:9F:F2:21:3B:29:F8:E5:A7:0A:B7:3F:D9:D8:80:69:32:1B:94:84:51:56",
+        "E5:92:F0:A9:4B:26:A5:08:6B:FD:FD:DB:8F:C0:88:FC:C6:A3:0A:A0:67:A4:84:BE:90:CA:42:CD:F5:49:87:2A"
       ]
     }
   }
